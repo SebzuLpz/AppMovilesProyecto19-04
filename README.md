@@ -1,1 +1,4 @@
-# AppMovilesProyecto19-04
+Integrantes de grupo:
+- Jhon Sebastian Prieto Orjuela.
+- Juan Sebastian Lopez Parra.
+  
